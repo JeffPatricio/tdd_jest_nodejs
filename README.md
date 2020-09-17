@@ -2,6 +2,8 @@
 A simple project using TDD to be presented to the information systems class of the seventh period of FASAM.
 The activity was proposed to me to present a simple project to the class using TDD to introduce the content.
 
+- 📚 Jest
+
 ## User Data
 - Name
 - Mail
