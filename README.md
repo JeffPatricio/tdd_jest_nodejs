@@ -1,5 +1,6 @@
 # Cadastro de Usuários em Memória
-
+A simple project using TDD to be presented to the information systems class of the seventh period of FASAM.
+The activity was proposed to me to present a simple project to the class using TDD to introduce the content.
 
 ## Dados dos Usuários
 - Nome
